@@ -1,0 +1,11 @@
+D:\Documents\EGC\LisencheV_temaCLI\tema_lab02\ControlObject\bin\Debug\ControlObject.exe.config
+D:\Documents\EGC\LisencheV_temaCLI\tema_lab02\ControlObject\bin\Debug\ControlObject.exe
+D:\Documents\EGC\LisencheV_temaCLI\tema_lab02\ControlObject\bin\Debug\ControlObject.pdb
+D:\Documents\EGC\LisencheV_temaCLI\tema_lab02\ControlObject\bin\Debug\OpenTK.dll
+D:\Documents\EGC\LisencheV_temaCLI\tema_lab02\ControlObject\bin\Debug\OpenTK.pdb
+D:\Documents\EGC\LisencheV_temaCLI\tema_lab02\ControlObject\bin\Debug\OpenTK.xml
+D:\Documents\EGC\LisencheV_temaCLI\tema_lab02\ControlObject\obj\Debug\ControlObject.csproj.AssemblyReference.cache
+D:\Documents\EGC\LisencheV_temaCLI\tema_lab02\ControlObject\obj\Debug\ControlObject.csproj.CoreCompileInputs.cache
+D:\Documents\EGC\LisencheV_temaCLI\tema_lab02\ControlObject\obj\Debug\ControlO.18926E17.Up2Date
+D:\Documents\EGC\LisencheV_temaCLI\tema_lab02\ControlObject\obj\Debug\ControlObject.exe
+D:\Documents\EGC\LisencheV_temaCLI\tema_lab02\ControlObject\obj\Debug\ControlObject.pdb
